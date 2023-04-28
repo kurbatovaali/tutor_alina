@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.smart{
+    background-color: rgb(94, 187, 187);
+    padding: 7%;
+}
+.smart_container{
+    text-align: center;
+}
+.smart_title{
+    color: white;
+    font-size: 5vw;
+}
+.smart_text{
+    color: whitesmoke;
+    font-size: 1.5vw;
+}
+.card_container{
+    display: flex;
+    flex-direction: row;
+}
+.card_container_text{
+    font-size: 3vw;
+    padding: 7%;
+    text-align: center;
+}
+.card_container_img{
+    padding: 3%;
+    background-attachment: fixed;
+}
+.target{
+    background-color: gray;
+    padding: 1%;
+}
+.target_text{
+    color: whitesmoke;
+    font-size: 2.5vw;
+    text-align: center;
+}
+.purpose{
+    padding: 3%;
+    display: flex;
+    flex-direction: row;
+   }
+.purpose_title{
+    background-color:rgb(94, 187, 187);
+    font-size: 2vw;
+    color:black;
+}
+.purpose_text{
+    font-size: 1.5vw;
+    color:black;
+    padding: 1%;
+}
+.purpose_container{
+    padding: 3%;
+}
+.program_title{
+    background-color:rgb(94, 187, 187);
+    font-size: 2vw;
+    color:black;
+}
+.program_text{
+    font-size: 1.5vw;
+    color:black;
+    padding: 1%;
+}
+.program_container{
+    padding: 3%;
+}
+.price{
+    font-size: 2vw;
+    padding: 1%;
+    text-align: center;
+}
+.запис_на_урок{
+    font-size: 2vw;
+    padding: 1%;
+    text-align: center;
+}
+.інста{
+    font-size: 2vw;
+    padding: 1%;
+    text-align: center;
+}
